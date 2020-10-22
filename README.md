@@ -1,2 +1,2 @@
-# Southern-Water-Corperation-Financial-Descriptive-and-Inferental-Analysis
+# Southern Water Corperation Financial Descriptive and Inferental Analysis
 Southern Water Corp has an increased use of their desalination plants due to an increase demand of water supply. Although this will make revenues go up, there are issues with maintaining the machinery to withstand the production. One of the scientists in the company has indicated that one of the pumps is indicating system failure due to abnormally high pressure readings. It is my job to prototype a linear equation that can describe the variables that lead to pump failure. ​
